@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Main">
+    <file>icons/icons8-voice-recorder-480.png</file>
+    <file>icons/icons8-play-50.png</file>
+    <file>icons/icons8-record-32.png</file>
+    <file>icons/icons8-stop-50.png</file>
+  </qresource>
+</RCC>
